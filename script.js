@@ -473,7 +473,7 @@ info.addTo(map);
   // Add data & GitHub links
   map.attributionControl.setPrefix('Download <a href="'
     + dataLocation + '" target="_blank">data</a> or \
-    view <a href="https://github.com/Simarmata12Soni/webmap_adopsipohon1_" target="_blank">code on\
+    view <a href="https://novianto19.github.io/adopsipohonriau/" target="_blank">code on\
     GitHub</a> | created with <a href="http://leafletjs.com" title="A JS library\
     for interactive maps">Leaflet</a>');
 
